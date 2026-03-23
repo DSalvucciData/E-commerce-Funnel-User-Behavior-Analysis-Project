@@ -18,6 +18,6 @@ Designed as a **learning exercise in Pandas and data visualization**.
 - Highlight areas for potential improvements in user experience and conversion.
 
 ## Notebooks
-- **EDA and Cleaning:** [`EDA_and_cleaning.ipynb`](notebooks/eda_and_cleaning.ipynb) – initial exploration and data cleaning  
+- **EDA and Cleaning:** [`EDA_and_cleaning.ipynb`](notebooks/EDA_and_cleaning.ipynb) – initial exploration and data cleaning  
 - **Analysis:** [`Analysis.ipynb`](notebooks/Analysis.ipynb) – sequential funnel analysis, visualizations, and insights
 
