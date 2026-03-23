@@ -1,0 +1,5 @@
+A medida que aprendo nuevos codigos o conceptos lo apunto en Obsidian
+
+Ir a C:\users\darremn\Documents\Obsidian_root\Python\digital_analytics_cro_analysis_apuntes.md
+
+o abrir en Obsidian obsidian://open?vault=Obsidian_root&file=Python%2Fdigital_analytics_cro_analysis_apuntes
