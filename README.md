@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates a **sequential funnel analysis** on a simulated e-commerce dataset using **Python**.  
 It tracks how users progress through **page views → product views → add to cart → checkout → purchase**, identifies drop-off points, and explores differences by **user type, device, and country**.  
-Designed as a **learning exercise in Pandas and data visualization**.
+
 
 ## Dataset
 - **Rows:** 2,944 | **Unique users:** 500  
